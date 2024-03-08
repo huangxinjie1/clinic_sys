@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/pay">
+        <file>image/pay.jpg</file>
+    </qresource>
+</RCC>
